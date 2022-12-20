@@ -16,4 +16,4 @@
 
 
 ## 🎵 &nbsp;Spotify
-[![Spotify](https://novatorem-lilac-tau.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-lilac-tau.vercel.app/api/spotify)](https://open.spotify.com/user/paulosmachado)
