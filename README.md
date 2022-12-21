@@ -14,6 +14,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosteffenm&theme=tokyonight)](https://github.com/paulosteffenm/github-readme-stats)
+
 ## 📊 &nbsp;Stats
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosteffenm&show_icons=true&theme=tokyonight)
 
