@@ -14,6 +14,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## 📊 &nbsp;Stats
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosteffenm&show_icons=true&theme=tokyonight)
+
 ## 🔎 &nbsp;Where To Find Me
  <a href="https://www.linkedin.com/in/paulo-steffen-machado/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
