@@ -20,12 +20,12 @@
 
 ## 📈 &nbsp;Stats
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosteffenm&show_icons=true&theme=tokyonight)
+-->
 
 ## 🔎 &nbsp;Where To Find Me
  <a href="https://www.linkedin.com/in/paulo-steffen-machado/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
--->
 
 ## 🎵 &nbsp;Spotify
 [![Spotify](https://novatorem-lilac-tau.vercel.app/api/spotify)](https://open.spotify.com/user/paulosmachado)
